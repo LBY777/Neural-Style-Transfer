@@ -43,7 +43,7 @@ Sample Output
   
 Here is a sample output.
 
-  <img src="/painted/geisel+starry.jpg" width="600"/>
+  <img src="/painted/example.png" width="1000"/>
 
 * * *
 
