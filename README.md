@@ -22,7 +22,7 @@ pip3 install -r requirements.txt
 Then, you can run
 
 ```bash
-python3 main.py [path to content image] [path to style image]
+python3 transfer.py [path to content image] [path to style image]
 ```
 
 For example, 
