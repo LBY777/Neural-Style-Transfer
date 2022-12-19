@@ -28,7 +28,7 @@ python3 main.py [path to content image] [path to style image]
 For example, 
 
 ```bash
-python3 main.py content/geisel.jpg style/starry.jpg
+python3 transfer.py content/geisel.jpg style/starry.jpg
 ```
 
 
